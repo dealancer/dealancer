@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dealancer.
-- 👀 I’m interested in parenting, coding, quantum computing, religion.
+- 👀 I’m interested in guitar, coding, quantum computing, languages.
 - 🌱 I’m currently learning Hebrew.
 - 💞️ I’m looking to finding a good job.
 - 📫 How to reach me http://www.myrgorod.net

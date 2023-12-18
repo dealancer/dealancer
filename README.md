@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dealancer.
 - 👀 I’m interested in guitar, coding, quantum computing, languages.
-- 🌱 I’m currently learning Hebrew.
+- 🌱 I’m currently learning Terraform.
 - 💞️ I’m looking for a new job.
 - 📫 How to reach me http://www.myrgorod.net
 

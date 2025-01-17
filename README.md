@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dealancer.
-- 👀 I’m interested in guitar, coding, quantum computing, languages.
-- 🌱 I’m currently learning Terraform.
-- 💞️ I’m looking for a new job.
+- 👀 I’m interested in guitar, coding, AI, quantum computing, languages.
+- 🌱 I’m currently learning CDK.
+- 💞️ I can be open for new job opportunities.
 - 📫 How to reach me http://www.myrgorod.net
 
 <!---
